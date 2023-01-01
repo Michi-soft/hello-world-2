@@ -1,1 +1,3 @@
 Example text for text file 1
+
+New line for text file 1
