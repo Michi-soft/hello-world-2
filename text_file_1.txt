@@ -3,3 +3,7 @@ Example text for text file 1
 New line for text file 1
 
 Another line changed
+
+Fourth line for Text file 1
+
+Fifth line
